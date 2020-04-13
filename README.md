@@ -1,1 +1,1 @@
-# linux
+# all distros
